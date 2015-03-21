@@ -1,0 +1,17 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookListServiceLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookRepositoryInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\FileRepository.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookListServiceLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\BookRepositoryInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\FileRepository.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\NLog.xml
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\Nlog.config

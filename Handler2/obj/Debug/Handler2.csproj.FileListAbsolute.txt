@@ -1,0 +1,7 @@
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\bin\Debug\Handler2.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\bin\Debug\Handler2.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\bin\Debug\TimerLogicLayer.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\bin\Debug\TimerLogicLayer.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\obj\Debug\Handler2.csprojResolveAssemblyReference.cache
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\obj\Debug\Handler2.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\Handler2\obj\Debug\Handler2.pdb

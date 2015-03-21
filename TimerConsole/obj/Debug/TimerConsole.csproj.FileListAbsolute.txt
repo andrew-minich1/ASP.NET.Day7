@@ -1,0 +1,12 @@
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\TimerConsole.exe.config
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\TimerConsole.exe
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\TimerConsole.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\Handler1.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\Handler2.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\TimerLogicLayer.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\Handler1.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\Handler2.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\bin\Debug\TimerLogicLayer.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\obj\Debug\TimerConsole.csprojResolveAssemblyReference.cache
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\obj\Debug\TimerConsole.exe
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerConsole\obj\Debug\TimerConsole.pdb

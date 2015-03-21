@@ -1,0 +1,14 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\bin\Debug\CompareLogic.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\bin\Debug\CompareLogic.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\bin\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\bin\Debug\InterfaceSort.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\obj\Debug\CompareLogic.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\obj\Debug\CompareLogic.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\CompareLogic\obj\Debug\CompareLogic.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\bin\Debug\CompareLogic.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\bin\Debug\CompareLogic.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\bin\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\bin\Debug\InterfaceSort.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\obj\Debug\CompareLogic.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\obj\Debug\CompareLogic.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\CompareLogic\obj\Debug\CompareLogic.pdb

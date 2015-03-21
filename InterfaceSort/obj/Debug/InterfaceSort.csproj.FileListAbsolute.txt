@@ -1,0 +1,5 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\InterfaceSort\obj\Debug\InterfaceSort.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\InterfaceSort\bin\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\InterfaceSort\bin\Debug\InterfaceSort.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\InterfaceSort\obj\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\InterfaceSort\obj\Debug\InterfaceSort.pdb

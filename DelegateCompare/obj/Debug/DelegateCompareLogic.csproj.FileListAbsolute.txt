@@ -1,0 +1,5 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\DelegateCompare\obj\Debug\DelegateCompareLogic.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\DelegateCompare\obj\Debug\DelegateCompare.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\DelegateCompare\obj\Debug\DelegateCompare.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\DelegateCompare\bin\Debug\DelegateCompare.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\DelegateCompare\bin\Debug\DelegateCompare.pdb

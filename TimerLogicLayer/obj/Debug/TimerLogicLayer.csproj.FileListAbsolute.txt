@@ -1,0 +1,5 @@
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerLogicLayer\bin\Debug\TimerLogicLayer.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerLogicLayer\bin\Debug\TimerLogicLayer.pdb
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerLogicLayer\obj\Debug\TimerLogicLayer.dll
+c:\users\andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerLogicLayer\obj\Debug\TimerLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\TimerLogicLayer\obj\Debug\TimerLogicLayer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\bin\Debug\BookRepositoryInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\bin\Debug\BookRepositoryInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\bin\Debug\BookLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\bin\Debug\BookLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\obj\Debug\BookRepositoryInterface.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\obj\Debug\BookRepositoryInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookRepositoryInterface\obj\Debug\BookRepositoryInterface.pdb

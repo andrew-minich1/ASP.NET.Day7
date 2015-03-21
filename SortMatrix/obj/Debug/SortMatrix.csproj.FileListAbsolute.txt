@@ -1,0 +1,16 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\bin\Debug\SortMatrix.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\bin\Debug\SortMatrix.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\bin\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\bin\Debug\InterfaceSort.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\obj\Debug\SortMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\obj\Debug\SortMatrix.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day4\SortMatrix\obj\Debug\SortMatrix.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\obj\Debug\SortMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\obj\Debug\SortMatrix.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\obj\Debug\SortMatrix.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\SortMatrix.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\SortMatrix.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\DelegateCompare.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\InterfaceSort.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\DelegateCompare.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\SortMatrix\bin\Debug\InterfaceSort.pdb
