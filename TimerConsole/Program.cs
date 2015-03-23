@@ -14,8 +14,10 @@ namespace TimerConsole
         static void Main(string[] args)
         {
             Timer timer = new Timer();
-            TimerHandler1 handler1 = new TimerHandler1(timer);
-            TimerHandler2 handler2 = new TimerHandler2(timer);
+            TimerHandler1 handler1 = new TimerHandler1();
+            TimerHandler2 handler2 = new TimerHandler2();
+            handler1.Register(timer);
+            handler2.Register(timer);
             timer.Start(10);
         }
     }

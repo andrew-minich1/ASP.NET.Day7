@@ -38,26 +38,29 @@ namespace SortMatrix
         #region Delegate Sort
         public static void SortDelegat(int[][] array, Func<int[], int[], int> compare)
         {
-            if (array == null || compare == null)
-            {
-                throw new ArgumentNullException();
-            }
-            bool swaped;
-            for (int i = 0; i < array.Length; i++)
-            {
-                swaped = false;
-                for (int y = 0; y < array.Length - 1; y++)
-                {
-                    if (compare(array[y], array[y + 1]) > 0)
-                    {
-                        Swap(array, y, y + 1);
-                        swaped = true;
-                    }
-                }
-                if (!swaped) break;
-            }
+             Sort(array, new CompareAdapter(compare));
         } 
         #endregion
+
+
+        private class CompareAdapter : ICompare
+        {
+            private Func<int[], int[], int> compare = null;
+
+            public CompareAdapter(Func<int[], int[], int> compare)
+            {
+                this.compare = compare;
+            }
+
+            public int Compare(int[] firstNumber, int[] secondNumber)
+            {
+                return Compare(firstNumber, secondNumber, compare);
+            }
+            private int Compare(int[] firstNumber, int[] secondNumber, Func<int[], int[], int> compare)
+            {
+                return compare(firstNumber, secondNumber);
+            }
+        }
 
         /// <summary>
         /// Swaps the elements of the array
@@ -71,5 +74,7 @@ namespace SortMatrix
             array[left] = array[right];
             array[right] = temp;
         }
+
     }
+
 }

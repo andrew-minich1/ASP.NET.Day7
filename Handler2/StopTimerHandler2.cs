@@ -9,26 +9,18 @@ namespace Handler2
 {
     public class TimerHandler2
     {
-        public TimerHandler2(Timer timer)
+        public void StopHandler(Object sender, NewTimerEventArgs eventArgs)
         {
-            if (timer == null) throw new ArgumentNullException();
-            timer.StartTimer += StartHandler;
-            timer.StopTimer += StopHendler;
-        }
-        public void StartHandler(Object sender, NewTimerEventArgs eventArgs)
-        {
-            Console.WriteLine("Start Timer : {0} sec", eventArgs.Seconds);
+            Console.WriteLine("Stop Timer after {0} sec", eventArgs.Seconds);
         }
 
-        public void StopHendler(Object sender, EventArgs eventArgs)
+        public void Register(Timer timer)
         {
-            Console.WriteLine("Stop Timer");
+            timer.StopTimer += StopHandler;
         }
-
         public void Unregister(Timer timer)
         {
-            timer.StartTimer -= StartHandler;
-            timer.StartTimer += StopHendler;
+            timer.StopTimer -= StopHandler;
         }
     }
 }

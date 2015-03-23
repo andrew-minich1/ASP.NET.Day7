@@ -18,25 +18,18 @@ namespace TimerLogicLayer
     }
     public class Timer
     {
-        public event EventHandler StopTimer = delegate { };
-        public event EventHandler<NewTimerEventArgs> StartTimer = delegate { };
+        public event EventHandler<NewTimerEventArgs> StopTimer = delegate { };
 
-        protected virtual void StartOn(NewTimerEventArgs e)
+        protected virtual void OnStopTimer(NewTimerEventArgs e)
         {
-            EventHandler<NewTimerEventArgs> timer = StartTimer;
+            EventHandler<NewTimerEventArgs> timer = StopTimer;
             timer(this, e);
         }
-        protected virtual void StopOn()
-        {
-            EventHandler timer = StopTimer;
-            timer(this, EventArgs.Empty);
-        }
 
-        public void Start(int seconds)
+        public void Start(int Seconds)
         {
-            StartOn(new NewTimerEventArgs(seconds));
-            Thread.Sleep(seconds * 1000);
-            this.StopOn();
+            Thread.Sleep(Seconds * 1000);
+            this.OnStopTimer(new NewTimerEventArgs(Seconds));
         }
     }
 }
