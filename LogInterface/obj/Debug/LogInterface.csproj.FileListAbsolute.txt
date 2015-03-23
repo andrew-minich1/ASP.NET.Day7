@@ -1,0 +1,7 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\obj\Debug\LogInterface.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\bin\Debug\LogInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\bin\Debug\LogInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\bin\Debug\NLog.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\bin\Debug\NLog.xml
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\obj\Debug\LogInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\LogInterface\obj\Debug\LogInterface.pdb

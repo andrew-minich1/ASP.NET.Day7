@@ -5,23 +5,35 @@ using System.Text;
 using System.Threading.Tasks;
 using BookLogicLayer;
 using BookRepositoryInterface;
+using NLog;
+using LogInterface;
+
 
 namespace BookListServiceLogicLayer
 {
     public class BookListService
     {
+        private static  ILog logger;
         private IBookRepository repository;
         public  List<Book> Books { get; private set; }
-        public BookListService(IBookRepository repository)
+        public BookListService(IBookRepository repository , ILog log)
         {
             if (repository == null) throw new ArgumentNullException();
             this.repository = repository;
             Books = repository.LoadBooks().ToList<Book>();
+            logger = log;
         }
         public void AddBook(Book book)
         {
             if (book == null) throw new ArgumentNullException();
-            if(this.Books.Contains<Book>(book)) throw new ArgumentException();
+            try
+            {
+                if (this.Books.Contains<Book>(book)) throw new ArgumentException();
+            }
+            catch (ArgumentException e)
+            {
+                logger.Log(e);
+            }
             Books.Add(book);
             repository.SaveBooks(this.Books);
         }

@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="NLog">
+      <HintPath>..\packages\NLog.3.2.0.0\lib\net45\NLog.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +54,13 @@
       <Project>{6019b4fb-7106-4bec-aa74-b60f1ebd446b}</Project>
       <Name>BookRepositoryInterface</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LogInterface\LogInterface.csproj">
+      <Project>{ba93b836-d228-44e0-abdc-ce112bb7de05}</Project>
+      <Name>LogInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

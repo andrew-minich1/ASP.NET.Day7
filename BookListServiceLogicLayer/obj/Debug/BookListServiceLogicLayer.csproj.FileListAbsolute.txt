@@ -7,3 +7,7 @@ C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debu
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\obj\Debug\BookListServiceLogicLayer.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\obj\Debug\BookListServiceLogicLayer.dll
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\obj\Debug\BookListServiceLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\LogInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\NLog.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\LogInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\NLog.xml
