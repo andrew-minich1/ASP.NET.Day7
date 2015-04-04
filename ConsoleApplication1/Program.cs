@@ -8,6 +8,9 @@ using BookListServiceLogicLayer;
 using FileRepository;
 using BookRepositoryInterface;
 using LogInterface;
+using Repository;
+using XMLExporterInterface;
+using XMLExporter;
 
 
 namespace ConsoleApplication1
@@ -27,11 +30,32 @@ namespace ConsoleApplication1
             service.AddBook(book1);
             service.AddBook(book2);
             service.AddBook(book3);
-            List<Book> list = service.SelectByTitle("CLR via C#").ToList<Book>();
-            foreach (var x in list)
+
+            foreach (var x in service.Books)
             {
                 Console.WriteLine(x.ToString());
             }
+
+            BookListService service2 = new BookListService(new BinaryFileRepository("Book2.doc"), new NLogLogic());
+            service2 = service.Filter(service2, book => book.Title == "CLR via C#");
+
+            foreach (var x in service2.Books)
+            {
+                Console.WriteLine(x.ToString());
+            }
+
+            BookListService service3 = new BookListService(new BinarySerialization("Book3.dat"), new NLogLogic());
+            service3.AddBook(book1);
+            service3.AddBook(book2);
+            service3.AddBook(book3);
+
+            foreach (var x in service3.Books)
+            {
+                Console.WriteLine(x.ToString());
+            }
+
+            service.ExportToXML("Book4.xml" , new XMLExporterXmlWriter());
+            service.ExportToXML("Book5.xml", new XMLExporterLINQ());
         }
     }
 }

@@ -21,7 +21,6 @@ namespace LogInterface
         public void Log(Exception ex)
         {
             logger.Info(ex.Message);
-            logger.Info(ex.Message);
             logger.Error(ex.StackTrace);
         }
     }

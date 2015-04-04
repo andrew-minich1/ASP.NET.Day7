@@ -72,6 +72,22 @@
       <Project>{ba93b836-d228-44e0-abdc-ce112bb7de05}</Project>
       <Name>LogInterface</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Repository\BinarySerialization.csproj">
+      <Project>{c9c8d946-554a-40cd-a650-90a609795e3b}</Project>
+      <Name>BinarySerialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XMLExporterInterface\XMLExporterInterface.csproj">
+      <Project>{dd5f0096-6975-41d5-9214-9763e7e5a743}</Project>
+      <Name>XMLExporterInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XMLExporterLINQ\XMLExporterLINQ.csproj">
+      <Project>{37decfbf-f935-4f75-8f7f-83faeca35734}</Project>
+      <Name>XMLExporterLINQ</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XMLExporter\XMLExporterXmlWriter.csproj">
+      <Project>{0878d3a6-e021-4bda-bfc3-c3a429aa2191}</Project>
+      <Name>XMLExporterXmlWriter</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

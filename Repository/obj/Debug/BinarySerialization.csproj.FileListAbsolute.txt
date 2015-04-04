@@ -1,0 +1,9 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\Repository.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\Repository.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\BookLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\BookRepositoryInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\BookLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\bin\Debug\BookRepositoryInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\obj\Debug\BinarySerialization.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\obj\Debug\Repository.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\Repository\obj\Debug\Repository.pdb

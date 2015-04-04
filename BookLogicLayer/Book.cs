@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookLogicLayer
 {
+    [Serializable()]
     public class Book : IEquatable<Book>, IComparable<Book>
     {
         public string Author { get; private set; }

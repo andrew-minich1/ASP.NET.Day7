@@ -1,0 +1,9 @@
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\XMLExporter.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\XMLExporter.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\BookLogicLayer.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\XMLExporterInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\BookLogicLayer.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\bin\Debug\XMLExporterInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\obj\Debug\XMLExporterXmlWriter.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\obj\Debug\XMLExporter.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\XMLExporter\obj\Debug\XMLExporter.pdb

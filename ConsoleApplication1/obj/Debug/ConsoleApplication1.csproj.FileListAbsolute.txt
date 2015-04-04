@@ -17,3 +17,11 @@ C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\NLog
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\Nlog.config
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\LogInterface.dll
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\LogInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\Repository.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\Repository.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporter.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporterInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporterInterface.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporter.pdb
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporterLINQ.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\ConsoleApplication1\bin\Debug\XMLExporterLINQ.pdb

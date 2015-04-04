@@ -58,6 +58,10 @@
       <Project>{ba93b836-d228-44e0-abdc-ce112bb7de05}</Project>
       <Name>LogInterface</Name>
     </ProjectReference>
+    <ProjectReference Include="..\XMLExporterInterface\XMLExporterInterface.csproj">
+      <Project>{dd5f0096-6975-41d5-9214-9763e7e5a743}</Project>
+      <Name>XMLExporterInterface</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

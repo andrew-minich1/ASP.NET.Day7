@@ -11,3 +11,5 @@ C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debu
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\NLog.dll
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\LogInterface.pdb
 C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\NLog.xml
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\XMLExporterInterface.dll
+C:\Users\Andrew\EPAM\ASP.NET.1501.Minich.Day7\BookListServiceLogicLayer\bin\Debug\XMLExporterInterface.pdb
